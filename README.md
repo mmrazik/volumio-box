@@ -6,6 +6,8 @@
 [Bottom Box stl](stl/volumio_bottom.stl)
 
 ## Gallery
+Printed with 40% Stars infill and 0 bottom and top solid layers.
+
 ![Volumio running](jpg/running.jpg)
 
 ![Bottom box with RPi installed](jpg/bottom_with_rpi.jpg)
